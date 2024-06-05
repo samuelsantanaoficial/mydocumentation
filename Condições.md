@@ -6,6 +6,7 @@ Em Dart, as condições são usadas para tomar decisões no fluxo de execução 
 A estrutura `if` é usada para executar um bloco de código se uma condição for verdadeira:
 
 ~~~dart
+
 void main() {
   int idade = 15;
 
@@ -19,6 +20,7 @@ void main() {
 O `else` é usado para executar um bloco de código se a condição `if` for falsa:
 
 ~~~dart
+
 void main() {
   int idade = 15;
 
@@ -34,6 +36,7 @@ void main() {
 O `else if` é usado para testar múltiplas condições:
 
 ~~~dart
+
 void main() {
   int idade = 15;
 
