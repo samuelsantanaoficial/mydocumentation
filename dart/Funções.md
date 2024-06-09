@@ -88,4 +88,4 @@ void idade(String name, int ano) {
 
 ---
 
-[Índice](README.md)
+[Índex](../README.md)

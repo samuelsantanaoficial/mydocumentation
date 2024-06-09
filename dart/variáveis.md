@@ -101,4 +101,5 @@ teste = 5.5;
 ~~~
 
 ---
-[Índice](README.md)
+
+[Índex](../README.md)

@@ -250,4 +250,4 @@ print(str.codeUnits); // [72, 101, 108, 108, 111]
 
 ---
 
-[Índice](README.md)
+[Índex](../README.md)

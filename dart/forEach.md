@@ -66,4 +66,5 @@ void main() {
 O método `forEach` é uma maneira conveniente de iterar sobre coleções em Dart, aplicando uma função a cada elemento. Ele é ideal para iterações simples onde não é necessário alterar o fluxo de controle (como usar `break` ou `continue`). Para casos onde mais controle é necessário, o loop `for-in` pode ser mais adequado.
 
 ---
-[Índice](README.md)
+
+[Índex](../README.md)
